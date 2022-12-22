@@ -1,0 +1,10 @@
+#root {
+    min-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    min-height: 100vh;
+}
+
+body {
+    min-height: 100%;
+}

@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "name": "Company",
+      "items": [
+        {
+          "name": "About Us",
+          "url": "/about"
+        },
+        {
+          "name": "Careers"
+        },
+        {
+          "name": "Our Team"
+        }
+      ]
+    },
+    {
+      "name": "Products",
+      "items": [
+        {
+          "name": "Autonomic Car",
+          "url": "/autonomic-car"
+        },
+        {
+          "name": "Autonomic Home"
+        },
+        {
+          "name": "Autonomic Office"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "name": "Contact Us",
+          "url": "/contact-us"
+        },
+        {
+          "name": "Support"
+        }
+      ]
+    }
+  ]
+}
